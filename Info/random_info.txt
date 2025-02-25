@@ -1,1 +1,3 @@
 Alessia DS: https://github.com/JaapVanDerAar/Flight-Network-Analysis\?tab\=readme-ov-file
+
+Example project from last year: https://tinyurl.com/293gcv2j
