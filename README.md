@@ -64,21 +64,18 @@ _No external downloads are required._
 
 ## Installation & Requirements
 
-
----
-
-## Installation & Requirements
-
 1. Clone this repository:  
    ```bash
    git clone https://github.com/<your-org>/marvel-network.git
    cd marvel-network
    
 2. (Recommended) Create a virtual environment:
+   ```bash
     python3 -m venv venv
     source venv/bin/activate
 
-3. Install dependencies:
+4. Install dependencies:
+   ```bash
    pip install -r requirements.txt
 
 ---
