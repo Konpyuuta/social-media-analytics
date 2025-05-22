@@ -94,6 +94,6 @@ No special command-line steps are required—just load the notebooks in your IDE
 
 | Name            | Role                             | Contact              |
 |-----------------|----------------------------------|----------------------|
-| Alessia Bussard | Network analysis & CF Evaluation | alessia.bussard@gmail.com    |
+| Alessia Bussard | Preprocessing and Analysis of the Network & CF Evaluation | alessia.bussard@gmail.com    |
 
 
