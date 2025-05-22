@@ -66,7 +66,7 @@ _No external downloads are required._
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/<your-org>/marvel-network.git
+   git clone https://github.com/Konpyuuta/social-media-analytics.git
    cd marvel-network
    
 2. (Recommended) Create a virtual environment:
