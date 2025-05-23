@@ -96,4 +96,5 @@ No special command-line steps are required—just load the notebooks in your IDE
 |-----------------|----------------------------------|----------------------|
 | Alessia Bussard | Preprocessing,Analysis of the Network & CF Evaluation | alessia.bussard@gmail.com    |
 | Maurice Amon | Graph Persistence & Implementation of CF Recommender Algorithms | amon@zhaw.ch    |
+| Filipe Silva | LPFormer implementation and Evaluation | filipe.nunessilva@students.unibe.ch    |
 
