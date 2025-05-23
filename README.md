@@ -95,5 +95,5 @@ No special command-line steps are required—just load the notebooks in your IDE
 | Name            | Role                             | Contact              |
 |-----------------|----------------------------------|----------------------|
 | Alessia Bussard | Preprocessing,Analysis of the Network & CF Evaluation | alessia.bussard@gmail.com    |
-
+| Maurice Amon | Graph Persistence & Implementation of CF Recommender Algorithms | amon@zhaw.ch    |
 
