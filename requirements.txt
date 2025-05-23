@@ -1,0 +1,17 @@
+# requirements.txt
+# (tested on Python 3.12.9)
+
+requests
+pandas
+numpy
+matplotlib
+seaborn
+tqdm
+networkx
+scikit-learn
+python-Levenshtein
+Levenshtein
+scipy
+neo4j
+torch
+gravis
